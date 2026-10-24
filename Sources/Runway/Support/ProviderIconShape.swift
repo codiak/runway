@@ -105,6 +105,7 @@ enum ProviderMarks {
         case "claude": return "sparkle"
         case "codex": return "circle.hexagongrid"
         case "cursor": return "cube"
+        case "fireworks": return "flame"
         case "grok": return "bolt.fill"
         case "kimi": return "moon.stars"
         case "muse": return "sparkles"
